@@ -1,0 +1,2 @@
+# C-Assignment-4
+In this assignment, a specialized LinkedList known as a GrabBag is used to simulate a game of High-Low-Guess with a deck of card. The user can guess whether the next card drawn will be higher or lower than the previous draw or what value the next drawn card will have. The computer draws the card randomly from the deck (bag). The probabilities of drawing a higher and lower card as well as the probabilities of drawing each specific value are shown to the user. The user can also see all previously drawn cards and the current card being guessed against.
