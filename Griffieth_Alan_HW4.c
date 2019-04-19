@@ -196,6 +196,7 @@ void removeCard(GrabBag* bag, Card* card) {//removes a specified card
     free(current->card);
     free(current);
   }
+  bag->size--;
 }
 
 int main(int argc, char** argv) {
